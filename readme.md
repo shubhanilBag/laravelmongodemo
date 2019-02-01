@@ -10,6 +10,7 @@ https://hub.docker.com/r/shubhanilbag/laravelmongodemo
  - Append these at the end of the file
 `DB_DSN=<MONGODB_CONNECTION_URL>`
 `DB_DATABASE=<MONGODB_DATABASE>`
+- run `composer install`
 - run `php artisan migrate`
 - run `php artisan serve`
 
